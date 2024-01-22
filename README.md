@@ -1,5 +1,6 @@
 <h1 align="center">Hi there, I'm Pierre Snell - Ierezell 👋</h1>
-
+# Public stats 
+Unfortunately most of my work is in private repo so it won't appear here.
 
 <p align="center">
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=PierreSnell&show_icons=true&theme=dracula&include_all_commits=true" />
